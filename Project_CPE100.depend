@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557147549 source:d:\bearsoul\computer code\project_cpe100\index.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,3 @@
+1,fired rice pork,35.000000
+2,fired rice seafood,45.000000
+3,kapao rice chicken,35.000000
